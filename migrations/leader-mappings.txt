@@ -1,0 +1,388 @@
+
+
+n  ,dA         * ggVG
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ca         * <Lua 17: ~/.config/nvim/lua/nbr/specs/fzf.lua:171>
+                 Code Action
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,dh         * <Lua 988: /opt/homebrew/Cellar/neovim/0.10.2_1/share/nvim/runtime/lua/vim/diagnostic.lua:1700>
+                 Hover
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ct         * <Lua 109: ~/.config/nvim/lua/nbr/specs/todo_comments.lua:25>
+                 Add todo
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,sX         * <Lua 108: ~/.config/nvim/lua/nbr/specs/todo_comments.lua:18>
+                 Special Todo
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,sx         * <Cmd>TodoTrouble<CR>
+                 Todos
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cF         * <Lua 193: ~/.config/nvim/lua/nbr/specs/conform.lua:54>
+                 Format (Toggle)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cf         * <Lua 191: ~/.config/nvim/lua/nbr/specs/conform.lua:43>
+                 Format
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,vf         * <Cmd>ConformInfo<CR>
+                 Conform Info
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,uw         * <Lua 951: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle Wrap
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,us         * <Lua 952: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle Spelling
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ub         * <Lua 33: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle Dark Background
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,uL         * <Lua 276: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle Relative Number
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,uh         * <Lua 955: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle Inlay Hints
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ul         * <Lua 956: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle Line Numbers
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ud         * <Lua 75: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle Diagnostics
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cpc        * <Cmd>CccPick<CR>
+                 Color Picker
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cLa        * <Lua 853: ~/.local/share/nvim/lazy/timber.nvim/lua/timber/config.lua:169>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cLb        * <Lua 852: ~/.local/share/nvim/lazy/timber.nvim/lua/timber/config.lua:163>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cLk        * <Lua 851: ~/.local/share/nvim/lazy/timber.nvim/lua/timber/config.lua:156>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cLj        * <Lua 850: ~/.local/share/nvim/lazy/timber.nvim/lua/timber/config.lua:149>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cla        * <Lua 848: ~/.local/share/nvim/lazy/timber.nvim/lua/timber/config.lua:145>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,clb        * <Lua 846: ~/.local/share/nvim/lazy/timber.nvim/lua/timber/config.lua:137>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,clk        * <Lua 844: ~/.local/share/nvim/lazy/timber.nvim/lua/timber/config.lua:131>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,clj        * <Lua 842: ~/.local/share/nvim/lazy/timber.nvim/lua/timber/config.lua:125>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,p          * <Lua 92: ~/.config/nvim/lua/nbr/specs/file-surfer.lua:39>
+                 Projects
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,U          * <Cmd>UndotreeToggle<CR>
+                 Undotree
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,eg         * <Lua 87: ~/.config/nvim/lua/nbr/specs/neotree.lua:43>
+                 Git Status
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ee         * <Lua 86: ~/.config/nvim/lua/nbr/specs/neotree.lua:36>
+                 Explorer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,eH         * <Lua 83: ~/.config/nvim/lua/nbr/specs/neotree.lua:64>
+                 Head Status (Choose)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,eh         * <Lua 82: ~/.config/nvim/lua/nbr/specs/neotree.lua:57>
+                 Head Status
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,er         * <Lua 81: ~/.config/nvim/lua/nbr/specs/neotree.lua:50>
+                 Recents
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,iw         * <Lua 178: ~/.config/nvim/lua/nbr/specs/wtf.lua:18>
+                 Debug diagnostic with AI
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,iW         * <Lua 177: ~/.config/nvim/lua/nbr/specs/wtf.lua:25>
+                 Search diagnostic with Google
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,in         * <Cmd>GpChatNew vsplit<CR>
+                 New Chat
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,im         * <Cmd>GpCommitMessage<CR>
+                 Generate Commit Message
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ie         * :<C-U>'<,'>GpExplain<CR>
+                 Explain Code
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,if         * <Cmd>GpChatFinder<CR>
+                 Find Chat
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,it         * <Cmd>GpChatToggle vsplit<CR>
+                 Toggle Last Chat
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ii         * <Cmd>GpChatToggle vsplit<CR>
+                 Toggle Last Chat
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,iN         * <Cmd>GpBufferChatNew vsplit<CR>
+                 New Chat with Buffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gdd        * <Cmd>DiffviewFileOpen<CR>
+                 Diff
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gdf        * <Cmd>DiffviewFileHistory %<CR>
+                 Diff History (File)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,eM         * <Lua 73: ~/.config/nvim/lua/nbr/specs/yazi.lua:22>
+                 Manager (CWD)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,em         * <Lua 71: ~/.config/nvim/lua/nbr/specs/yazi.lua:15>
+                 Manager
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gy         * <Cmd>lua require'gitlinker'.get_buf_range_url('n')<CR>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,sc         * <Lua 533: ~/.config/nvim/plugin/component.lua:192>
+                 Component
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,h.         * <Lua 182: ~/.local/share/nvim/lazy/kulala.nvim/lua/kulala/init.lua:24>
+                 Re-Run request
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,hh         * <Lua 181: ~/.local/share/nvim/lazy/kulala.nvim/lua/kulala/init.lua:16>
+                 Run request
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,hc         * <Lua 180: ~/.local/share/nvim/lazy/kulala.nvim/lua/kulala/init.lua:32>
+                 Copy request
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,hs         * <Lua 167: ~/.local/share/nvim/lazy/kulala.nvim/lua/kulala/init.lua:57>
+                 Search
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,he         * <Lua 164: ~/.local/share/nvim/lazy/kulala.nvim/lua/kulala/init.lua:78>
+                 Select env
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,uG         * <Cmd>T2CSave<CR>
+                 Save a generated colorscheme
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ug         * :T2CGenerate<Space>
+                 Generate a colorschme
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,vm         * <Cmd>Bmessagesvs<CR>
+                 Messages
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,dw         * <Cmd>Trouble diagnostics toggle<CR>
+                 Workspace
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,dd         * <Cmd>Trouble diagnostics toggle  filter.buf=0<CR>
+                 Document
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,dco        * <Cmd>Trouble lsp_outgoing_calls<CR>
+                 Calls Outgoing
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,dci        * <Cmd>Trouble lsp_incoming_calls<CR>
+                 Calls Incoming
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,di         * <Cmd>Trouble lsp toggle<CR>
+                 Symbol Information
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,dt         * <Cmd>Trouble symbols toggle<CR>
+                 Symbols
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,uT         * <Lua 954: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle Treesitter Highlight
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ut         * <Lua 275: ~/.config/nvim/lua/nbr/specs/fzf.lua:145>
+                 Themes
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gCc        * <Lua 273: ~/.config/nvim/lua/nbr/specs/fzf.lua:143>
+                 Commits
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gCb        * <Lua 272: ~/.config/nvim/lua/nbr/specs/fzf.lua:142>
+                 Branches
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gc         * <Lua 271: ~/.config/nvim/lua/nbr/specs/fzf.lua:141>
+                 Changes
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gs         * <Lua 270: ~/.config/nvim/lua/nbr/specs/fzf.lua:140>
+                 Git Status
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,s'         * <Lua 268: ~/.config/nvim/lua/nbr/specs/fzf.lua:139>
+                 Registers
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,sm         * <Lua 267: ~/.config/nvim/lua/nbr/specs/fzf.lua:138>
+                 Marks
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,sw         * <Lua 265: ~/.config/nvim/lua/nbr/specs/fzf.lua:137>
+                 Word
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,sk         * <Lua 264: ~/.config/nvim/lua/nbr/specs/fzf.lua:136>
+                 Keymaps
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,sH         * <Lua 263: ~/.config/nvim/lua/nbr/specs/fzf.lua:135>
+                 Highlights
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,?m         * <Lua 262: ~/.config/nvim/lua/nbr/specs/fzf.lua:134>
+                 Man Pages
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,??         * <Lua 261: ~/.config/nvim/lua/nbr/specs/fzf.lua:133>
+                 Help Tags
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,s.         * <Lua 260: ~/.config/nvim/lua/nbr/specs/fzf.lua:132>
+                 Resume
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,R          * <Lua 259: ~/.config/nvim/lua/nbr/specs/fzf.lua:131>
+                 Recent
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,r          * <Lua 258: ~/.config/nvim/lua/nbr/specs/fzf.lua:130>
+                 Recent
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,j          * <Lua 257: ~/.config/nvim/lua/nbr/specs/fzf.lua:129>
+                 Jumps
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,<Tab>      * <Lua 256: ~/.config/nvim/lua/nbr/specs/fzf.lua:128>
+                 Tab Fuzzy Find
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,;          * <Lua 255: ~/.config/nvim/lua/nbr/specs/fzf.lua:127>
+                 Commands
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,wd         * <Lua 253: ~/.config/nvim/lua/nbr/specs/fzf.lua:125>
+                 [W]orkspace [D]ocument
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gCt        * <Lua 252: ~/.config/nvim/lua/nbr/specs/fzf.lua:144>
+                 Tags
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,/          * <Lua 250: ~/.config/nvim/lua/nbr/specs/fzf.lua:126>
+                 Text in File
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,Sl         * <Lua 281: ~/.local/share/nvim/lazy/persistence.nvim/lua/persistence/init.lua:74>
+                 Load session
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,SS         * <Lua 280: ~/.local/share/nvim/lazy/persistence.nvim/lua/persistence/init.lua:106>
+                 Select session
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,Sr         * <Lua 279: ~/.config/nvim/lua/nbr/specs/persistence.lua:14>
+                 Restore session
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gf         * <Lua 174: ~/.config/nvim/lua/nbr/specs/snacks.lua:107>
+                 Lazygit Current File History
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,N          * <Lua 173: ~/.config/nvim/lua/nbr/specs/snacks.lua:112>
+                 Neovim News
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gl         * <Lua 78: ~/.config/nvim/lua/nbr/specs/snacks.lua:108>
+                 Lazygit Log (cwd)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gR         * <Lua 53: ~/.config/nvim/lua/nbr/specs/snacks.lua:106>
+                 Open File on Remote
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gb         * <Lua 51: ~/.config/nvim/lua/nbr/specs/snacks.lua:105>
+                 Git Blame Line
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gg         * <Lua 172: ~/.config/nvim/lua/nbr/specs/snacks.lua:104>
+                 Lazygit
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,vn         * <Lua 171: ~/.config/nvim/lua/nbr/specs/snacks.lua:103>
+                 Notification History
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,un         * <Lua 170: ~/.config/nvim/lua/nbr/specs/snacks.lua:102>
+                 Dismiss All Notifications
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ic         * <Lua 93: ~/.config/nvim/lua/nbr/specs/supermaven.lua:3>
+                 Autocompletion
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,so         * <Lua 76: ~/.config/nvim/lua/nbr/specs/telescope.lua:4>
+                 Options
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cph        * <Lua 283: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Hue Picker
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cps        * <Lua 282: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Shade Picker
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,oj         * <Lua 150: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Open Today's Note
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,oo         * <Lua 149: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Quick Switch Note
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,on         * <Lua 148: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 New Note
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,nf         * <Lua 139: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 File
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,nd         * <Lua 138: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Daily
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,nb         * <Lua 137: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Branch
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,np         * <Lua 136: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Project
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,z          * <Lua 135: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Zen
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,st         * <Lua 102: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Text (File)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cr         * <Lua 100: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Replace
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,f          * <Lua 98: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Find
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,sT         * <Lua 96: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Text
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,cc         * <Lua 49: ~/.config/nvim/lua/nbr/keymaps.lua:149>
+                 Copy
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,vL         * <Lua 48: ~/.config/nvim/lua/nbr/keymaps.lua:143>
+                 LSP  (Restart)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,vl         * <Cmd>LspInfo<CR>
+                 LSP Info
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,vP         * <Cmd>Mason<CR>
+                 Package Manager (Mason)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,vp         * <Cmd>Lazy<CR>
+                 Plugin Manager (LazyVim)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,9          * <Lua 47: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,8          * <Lua 46: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,7          * <Lua 45: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,6          * <Lua 44: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,5          * <Lua 43: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,4          * <Lua 42: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,3          * <Lua 41: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,2          * <Lua 40: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,1          * <Lua 39: ~/.config/nvim/lua/nbr/keymaps.lua:127>
+                 which_key_ignore
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,uC         * <Lua 34: ~/.config/nvim/lua/nbr/keymaps.lua:108>
+                 Toggle Specific [C]onceal Level
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,uc         * <Lua 953: ~/.local/share/nvim/lazy/snacks.nvim/lua/snacks/toggle.lua:83>
+                 Toggle conceallevel
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ui         * <Lua 32: /opt/homebrew/Cellar/neovim/0.10.2_1/share/nvim/runtime/lua/vim/_inspector.lua:152>
+                 Inspect Position
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,ur         * <Lua 31: ~/.config/nvim/lua/nbr/keymaps.lua:91>
+                 Redraw
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,g.         * <Lua 30: ~/.config/nvim/lua/nbr/keymaps.lua:81>
+                 CD Git Root
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,dq         * <Lua 27: ~/.config/nvim/lua/nbr/keymaps.lua:24>
+                 [D]ocument [Q]uit
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,wq         * <Lua 26: ~/.config/nvim/lua/nbr/keymaps.lua:20>
+                 [W]orkspace [Q]uit
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,,          * <Lua 23: ~/.config/nvim/lua/nbr/keymaps.lua:16>
+                 Enter Command Mode
+	Last set from Lua (run Nvim with -V1 for more details)

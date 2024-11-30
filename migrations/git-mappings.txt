@@ -1,0 +1,61 @@
+
+
+n  ,gsb        *@<Lua 3179: ~/.local/share/nvim/lazy/gitsigns.nvim/lua/gitsigns/async.lua:200>
+                 Stage Buffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,grb        *@<Lua 3428: ~/.local/share/nvim/lazy/gitsigns.nvim/lua/gitsigns/actions.lua:378>
+                 Reset Buffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gdh        *@<Lua 3232: ~/.local/share/nvim/lazy/gitsigns.nvim/lua/gitsigns/actions.lua:811>
+                 Diff (Hunk)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,guh        *@<Lua 3667: ~/.local/share/nvim/lazy/gitsigns.nvim/lua/gitsigns/async.lua:200>
+                 Undo Stage Hunk
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,grh        *@<Lua 3457: ~/.local/share/nvim/lazy/gitsigns.nvim/lua/gitsigns/repeat.lua:4>
+                 Reset Hunk
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gsh        *@<Lua 3494: ~/.local/share/nvim/lazy/gitsigns.nvim/lua/gitsigns/repeat.lua:4>
+                 Stage Hunk
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gdd        * <Cmd>DiffviewFileOpen<CR>
+                 Diff
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gdf        * <Cmd>DiffviewFileHistory %<CR>
+                 Diff History (File)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gy         * <Cmd>lua require'gitlinker'.get_buf_range_url('n')<CR>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gCt        * <Lua 107: ~/.config/nvim/lua/vin/specs/fzf.lua:144>
+                 Tags
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gCc        * <Lua 106: ~/.config/nvim/lua/vin/specs/fzf.lua:143>
+                 Commits
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gCb        * <Lua 105: ~/.config/nvim/lua/vin/specs/fzf.lua:142>
+                 Branches
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gc         * <Lua 104: ~/.config/nvim/lua/vin/specs/fzf.lua:141>
+                 Changes
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gs         * <Lua 103: ~/.config/nvim/lua/vin/specs/fzf.lua:140>
+                 Git Status
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gf         * <Lua 149: ~/.config/nvim/lua/vin/specs/snacks.lua:120>
+                 Lazygit Current File History
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gl         * <Lua 147: ~/.config/nvim/lua/vin/specs/snacks.lua:121>
+                 Lazygit Log (cwd)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gR         * <Lua 145: ~/.config/nvim/lua/vin/specs/snacks.lua:119>
+                 Open File on Remote
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gb         * <Lua 144: ~/.config/nvim/lua/vin/specs/snacks.lua:118>
+                 Git Blame Line
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,gg         * <Lua 143: ~/.config/nvim/lua/vin/specs/snacks.lua:117>
+                 Lazygit
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ,g.         * <Lua 30: ~/.config/nvim/lua/vin/keymaps.lua:81>
+                 CD Git Root
+	Last set from Lua (run Nvim with -V1 for more details)
